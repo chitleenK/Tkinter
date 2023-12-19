@@ -1,4 +1,3 @@
-#Module 4 Height Conversion Assignment
 #Chitleen Kohli
 #importing tkinter
 from tkinter import *
